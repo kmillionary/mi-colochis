@@ -448,8 +448,8 @@ body {
 
     .card-modal {
         padding: 25px;
-        padding-bottom: 80px;
-        /* Added padding for Android controls */
+        margin-bottom: 80px;
+        /* Lift the card up away from Android controls */
         width: 95%;
         max-height: 90vh;
         /* Scroll if needed */
