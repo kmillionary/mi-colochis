@@ -448,11 +448,24 @@ body {
 
     .card-modal {
         padding: 25px;
+        margin-top: 20px;
         margin-bottom: 80px;
         /* Lift the card up away from Android controls */
         width: 95%;
         max-height: 90vh;
         /* Scroll if needed */
         overflow-y: auto;
+    }
+
+    .sign-off {
+        margin-top: 10px;
+    }
+
+    .interaction-area {
+        margin-top: 20px;
+    }
+
+    .question {
+        margin-bottom: 15px;
     }
 }
